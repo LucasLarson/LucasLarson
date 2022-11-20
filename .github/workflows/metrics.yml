@@ -1,8 +1,8 @@
 ---
 name: Metrics
 on:
-  # At the end of every day
-  schedule: [{cron: "0 0 * * *"}]
+  # at the end of UTC Friday
+  schedule: [{cron: "59 23 * * 5"}]
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
   push: {branches: ["main"]}
