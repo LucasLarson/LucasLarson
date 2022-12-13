@@ -2,14 +2,14 @@
   <img align="center" width="49%" src="./header.svg">
 </a>
 <br>
-<a href="https://github.com/LucasLarson">
+<a href="https://github.com/LucasLarson?tab=repositories">
   <img align="center" width="49%" src="./repositories.svg">
 </a>
 <a href="https://github.com/LucasLarson">
   <img align="center" width="49%" src="./acti_comm.svg">
 </a>
 
-<a href="https://github.com/LucasLarson">
+<a href="https://github.com/LucasLarson#year-list-container">
   <img align="center" width="49%" src="./iso_calender.svg">
 </a>
 
