@@ -14,8 +14,5 @@
 </a>
 
 <a href="https://github.com/LucasLarson">
-  <img align="center" width="49%" src="./github-habits.svg">
-</a>
-<a href="https://github.com/LucasLarson">
   <img align="center" width="49%" src="./achievements.svg">
 </a>
