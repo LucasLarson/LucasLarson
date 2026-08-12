@@ -14,4 +14,3 @@ updates:
       # ignore patch updates for all dependencies
       - dependency-name: "*"
         update-types: ["version-update:semver-minor"]
-...
