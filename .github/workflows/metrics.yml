@@ -2,13 +2,12 @@
 name: Metrics
 on:
   # at the end of UTC Friday
-  schedule: [{cron: "59 23 * * 5"}]
+  schedule: [{ cron: "59 23 * * 5" }]
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
-  push: {branches: ["main"]}
+  push: { branches: ["main"] }
 
 jobs:
-
   github-metrics:
     runs-on: ubuntu-latest
     steps:
@@ -71,7 +70,6 @@ jobs:
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           plugin_followup: yes
           plugin_languages: yes
-
 
   repositories:
     runs-on: ubuntu-latest
